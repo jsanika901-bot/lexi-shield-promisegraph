@@ -1,0 +1,6 @@
+{
+  "name": "LEXI-SHIELD",
+  "description": "One Promise. Multiple Documents. One Intelligence System. Cross-document verification and fraud risk intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
